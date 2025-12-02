@@ -65,7 +65,7 @@ All notes are saved in the browser --- no backend required.
 -   Drag & drop reordering
 -   Dark mode
 -   Markdown editor for notes
--   Export/Import notes (JSON, Markdown)
+-   Export or Import notes (JSON, Markdown)
 -   Notification reminders
 -   Backend integration (Firebase / Node.js)
 
