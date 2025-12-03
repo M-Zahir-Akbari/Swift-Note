@@ -21,7 +21,7 @@ This project focuses on simplicity, speed, and intuitive UX.
     -   Priority (High, Medium, Low)
     -   Tags
     -   Completion status
--   Sorting options (date created, priority, alphabetic)
+-   Sorting options (Date created, Priority, Alphabetic)
 
 ### 💾 LocalStorage Persistence
 
