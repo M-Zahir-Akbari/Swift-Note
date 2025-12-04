@@ -4,5 +4,5 @@
   backdrop-filter: blur(6px);
 }
 .card-shadow {
-  box-shadow: 0 6px 20px rgba(17, 24, 39, 0.08);
+  box-shadow: 0 6px 20px cyan;
 }
