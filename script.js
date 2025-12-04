@@ -92,7 +92,7 @@ function openEditor(note = null) {
         noteTagsInput.value = '';
         deleteNoteBtn.classList.add('hidden');
     } else {
-        editorTitle.textContent = 'Edit Note';
+        editorTitle.textContent = 'Edit';
         noteIdInput.value = note.id;
         noteTitleInput.value = note.title;
         noteBodyInput.value = note.body;
@@ -160,7 +160,7 @@ function editNote(id) {
 }
 
 function render() {
-    // Apply filters & sort
+    // Apply filters & Sort
     let items = [...app.notes];
 
     // search
@@ -169,7 +169,7 @@ function render() {
         items = items.filter(n => (n.title + ' ' + n.body + ' ' + (n.tags || []).join(' ')).toLowerCase().includes(q));
     }
 
-    // completed filter
+    // Completed filter
     if (!app.filters.showCompleted) {
         items = items.filter(n => !n.completed);
     }
