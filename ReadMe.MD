@@ -10,7 +10,7 @@ This project focuses on simplicity, speed, and intuitive UX.
 
 ### 📝 Note & Task Management
 
--   Create, edit, and delete notes
+-   Create, Edit, and delete notes
 -   Add descriptions, due dates, priority levels, and tags
 -   Mark tasks as completed or undo
 
