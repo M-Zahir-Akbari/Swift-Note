@@ -1,4 +1,4 @@
-// Optional: small Tailwind config to extend the palette
+// Optional: Small Tailwind config to extend the palette
 tailwind.config = {
     theme: {
         extend: {
