@@ -174,7 +174,7 @@ function render() {
         items = items.filter(n => !n.completed);
     }
 
-    // priority filter
+    // Priority filter
     if (app.filters.priority && app.filters.priority !== 'all') {
         items = items.filter(n => n.priority === app.filters.priority);
     }
