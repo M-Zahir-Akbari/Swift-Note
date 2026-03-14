@@ -1,4 +1,4 @@
-# Note & Task Management Web App
+# Note and Task Management Web App
 
 A clean, professional, and responsive Note-Taking + Task Management web
 application built using **HTML**, **Tailwind CSS**, and **JavaScript**.\
